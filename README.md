@@ -1,4 +1,10 @@
-## What is my goal by building this project, I will learn:
+- [x] 🧛‍♂️ How to create a dark0mode enabled app and use vector assets.
+- [ ] 📝 Learn to use the UITextField to get user input.
+- [ ] 👨🏻‍💼 Learn about Swift Protocols and the Delegate Design Pattern.
+- [ ] 👋 Learn to work with APIs by making HTTP requests with URLSession,
+- [ ] 🧬 Parse Json with native JSONDecoder.
+- [ ] 💻 Learn to use computed properties, closures and extensions.
+- [ ] 🗺 Learn to use Core Location to get the GPS data..
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
@@ -12,6 +18,7 @@
 * Parse JSON with the native Encodable and Decodable protocols. 
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
+
 
 ### Condition Codes
 ```
