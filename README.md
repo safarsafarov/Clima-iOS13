@@ -1,6 +1,9 @@
 - [x] 🧛‍♂️ How to create a dark0mode enabled app and use vector assets.
 - [ ] 📝 Learn to use the UITextField to get user input.
 - [ ] 👨🏻‍💼 Learn about Swift Protocols and the Delegate Design Pattern.
+- [ ] 🗝 Swift guard keyword. 
+- [ ] 🧮 Swift computed properties.
+- [ ] 🤾🏻‍♂️ Swift closures and completion handlers.
 - [ ] 👋 Learn to work with APIs by making HTTP requests with URLSession,
 - [ ] 🧬 Parse Json with native JSONDecoder.
 - [ ] 💻 Learn to use computed properties, closures and extensions.
