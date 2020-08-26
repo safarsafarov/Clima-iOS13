@@ -17,11 +17,16 @@ class WeatherViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
+        searchTextField.delegate = self
     }
 
     @IBAction func searchPressed(_ sender: Any) {
         print(searchTextField.text!)
+    }
+
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool{
+
     }
     
 
