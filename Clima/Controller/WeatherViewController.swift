@@ -22,7 +22,9 @@ class WeatherViewController: UIViewController {
     }
 
     @IBAction func searchPressed(_ sender: Any) {
+        searchTextField.endEnding(true)
         print(searchTextField.text!)
+
     }
 
     func textFieldShouldReturn(_ textField: UITextField) -> Bool{
