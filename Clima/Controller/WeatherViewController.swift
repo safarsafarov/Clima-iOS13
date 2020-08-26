@@ -25,7 +25,6 @@ class WeatherViewController: UIViewController {
     // Action row
     @IBAction func searchPressed(_ sender: Any) {
         searchTextField.endEditing(true)
-        print(searchTextField.text!)
     }
 
     // Methods
@@ -37,7 +36,12 @@ class WeatherViewController: UIViewController {
     }
 
     func textFieldShouldEndEditing(_ textField: UITextField) -> Bool {
-
+        if textField.text != "" {
+            return true
+        } else {
+            textField.placeholder = "Type something"
+            return false
+        }
     }
 
     func textFieldDidEndEditing(_ textField: UITextField) {
@@ -47,3 +51,13 @@ class WeatherViewController: UIViewController {
 
 }
 
+
+
+
+//TODO:DONE: 🧛‍♂️ How to create a dark0mode enabled app and use vector assets.
+//TODO: 📝 Learn to use the UITextField to get user input.
+//TODO: 👨🏻‍💼 Learn about Swift Protocols and the Delegate Design Pattern.
+//TODO: 👋 Learn to work with APIs by making HTTP requests with URLSession,
+//TODO: 🧬 Parse Json with native JSONDecoder.
+//TODO: 💻 Learn to use computed properties, closures and extensions.
+//TODO: 🗺 Learn to use Core Location to get the GPS data.
