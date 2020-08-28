@@ -47,7 +47,9 @@ class WeatherViewController: UIViewController {
     func textFieldDidEndEditing(_ textField: UITextField) {
         searchTextField.text = ""
     }
-    
+
+
+
 
 }
 
