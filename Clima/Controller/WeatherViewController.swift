@@ -19,7 +19,7 @@ class WeatherViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-//        searchTextField.delegate = self
+        searchTextField.delegate = self
     }
 
     // Action row
