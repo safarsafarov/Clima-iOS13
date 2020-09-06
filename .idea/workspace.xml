@@ -16,10 +16,16 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89d2e53b-ac86-4584-8a0a-8daca3443296" name="Default Changelist" comment="Clima-ios13">
+    <list default="true" id="456c2f3b-2399-4aed-a58e-cb6c22c76df1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../App Brewery Massive Bundle/App Icon Builder/Android-AppIcon-Template.sketch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../App Brewery Massive Bundle/App Icon Builder/iOS10_AppIcon_Template.sketch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../App Brewery Massive Bundle/Image Assets/avatars/1.jpg" afterDir="false" />
@@ -4587,7 +4593,9 @@
       <change beforePath="$PROJECT_DIR$/../Bullyseye-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Bullyseye-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS50-swift" beforeDir="false" afterPath="$PROJECT_DIR$/../CS50-swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Calculator-Layout-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator-Layout-iOS13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Checklist-ios13" beforeDir="false" afterPath="$PROJECT_DIR$/../Checklist-ios13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Destini-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Destini-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dicee-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Dicee-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EggTimer-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../EggTimer-iOS13" afterDir="false" />
@@ -4633,7 +4641,8 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="89d2e53b-ac86-4584-8a0a-8daca3443296" name="Default Changelist" comment="" />
+      <changelist id="" name="Default Changelist" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1598456352443</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -4646,6 +4655,7 @@
       <workItem from="1599181970650" duration="430000" />
       <workItem from="1599290495119" duration="1200000" />
       <workItem from="1599314522048" duration="1756000" />
+      <workItem from="1599371239936" duration="2871000" />
     </task>
     <task id="LOCAL-00001" summary="Clima-ios13">
       <created>1598458083012</created>
@@ -4703,7 +4713,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599181994798</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Clima-ios13">
+      <created>1599371335569</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599371335570</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -4726,10 +4743,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="Clima-ios13" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="880" y="453" key="Vcs.Push.Dialog.v2" timestamp="1599181999142">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state x="100" y="123" width="1080" height="1139" key="DiffContextDialog" timestamp="1599372919016">
+      <screen x="0" y="23" width="2560" height="1339" />
+    </state>
+    <state x="100" y="123" width="1080" height="1139" key="DiffContextDialog/0.23.2560.1339/-1440.844.1440.877@0.23.2560.1339" timestamp="1599372919016" />
+    <state x="478" y="569" key="VCS.EditChangelistDialog" timestamp="1599371454096">
+      <screen x="0" y="23" width="2560" height="1339" />
+    </state>
+    <state x="478" y="569" key="VCS.EditChangelistDialog/0.23.2560.1339/-1440.844.1440.877@0.23.2560.1339" timestamp="1599371454096" />
+    <state x="880" y="429" key="Vcs.Push.Dialog.v2" timestamp="1599371343387">
+      <screen x="0" y="23" width="2560" height="1339" />
     </state>
     <state x="880" y="425" key="Vcs.Push.Dialog.v2/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598619116435" />
+    <state x="880" y="429" key="Vcs.Push.Dialog.v2/0.23.2560.1339/-1440.844.1440.877@0.23.2560.1339" timestamp="1599371343387" />
     <state x="880" y="453" key="Vcs.Push.Dialog.v2/0.23.2560.1417/-1440.844.1440.877@0.23.2560.1417" timestamp="1599181999142" />
   </component>
   <component name="XCUnloadedResolveContextsSettings">
