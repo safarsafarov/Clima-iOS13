@@ -22,7 +22,7 @@ class WeatherViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        searchTextField.delegate = self
+//        searchTextField.delegate = self
     }
 
     // Action row
@@ -50,7 +50,7 @@ class WeatherViewController: UIViewController {
     func textFieldDidEndEditing(_ textField: UITextField) {
 
         if let city = searchTextField.text {
-            weatherManager.fetchWeather(cityName: city)
+//            weatherManager.fetchWeather(cityName: city)
         }
 
         searchTextField.text = ""

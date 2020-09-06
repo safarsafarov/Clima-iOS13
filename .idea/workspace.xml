@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="456c2f3b-2399-4aed-a58e-cb6c22c76df1" name="Default Changelist" comment="">
+    <list default="true" id="456c2f3b-2399-4aed-a58e-cb6c22c76df1" name="Default Changelist" comment="Clima-ios13">
       <change afterPath="$PROJECT_DIR$/../App Brewery Massive Bundle/App Icon Builder/Android-AppIcon-Template.sketch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../App Brewery Massive Bundle/App Icon Builder/iOS10_AppIcon_Template.sketch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../App Brewery Massive Bundle/Image Assets/avatars/1.jpg" afterDir="false" />
@@ -4595,7 +4595,6 @@
       <change beforePath="$PROJECT_DIR$/../Calculator-Layout-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator-Layout-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checklist-ios13" beforeDir="false" afterPath="$PROJECT_DIR$/../Checklist-ios13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Destini-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Destini-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dicee-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Dicee-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EggTimer-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../EggTimer-iOS13" afterDir="false" />
@@ -4655,7 +4654,7 @@
       <workItem from="1599181970650" duration="430000" />
       <workItem from="1599290495119" duration="1200000" />
       <workItem from="1599314522048" duration="1756000" />
-      <workItem from="1599371239936" duration="2871000" />
+      <workItem from="1599371239936" duration="2934000" />
     </task>
     <task id="LOCAL-00001" summary="Clima-ios13">
       <created>1598458083012</created>
