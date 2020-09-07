@@ -4595,6 +4595,9 @@
       <change beforePath="$PROJECT_DIR$/../Calculator-Layout-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator-Layout-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checklist-ios13" beforeDir="false" afterPath="$PROJECT_DIR$/../Checklist-ios13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/xcode.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xcode.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Clima.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima.xcodeproj/project.xcworkspace/xcuserdata/safarovsafar.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/Clima.xcodeproj/project.xcworkspace/xcuserdata/safarovsafar.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Destini-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Destini-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dicee-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Dicee-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EggTimer-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../EggTimer-iOS13" afterDir="false" />
@@ -4640,8 +4643,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="" name="Default Changelist" comment="" />
-      <changelist id="" name="New changelist" comment="" />
+      <changelist id="456c2f3b-2399-4aed-a58e-cb6c22c76df1" name="Default Changelist" comment="Clima-ios13" />
       <created>1598456352443</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -4655,6 +4657,7 @@
       <workItem from="1599290495119" duration="1200000" />
       <workItem from="1599314522048" duration="1756000" />
       <workItem from="1599371239936" duration="2934000" />
+      <workItem from="1599397609189" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="Clima-ios13">
       <created>1598458083012</created>
