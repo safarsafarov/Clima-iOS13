@@ -4587,14 +4587,8 @@
       <change beforePath="$PROJECT_DIR$/../Bullyseye-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Bullyseye-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS50-swift" beforeDir="false" afterPath="$PROJECT_DIR$/../CS50-swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Calculator-Layout-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator-Layout-iOS13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Checklist-ios13" beforeDir="false" afterPath="$PROJECT_DIR$/../Checklist-ios13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/xcode.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xcode.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clima.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Clima.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clima.xcodeproj/project.xcworkspace/xcuserdata/safarovsafar.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/Clima.xcodeproj/project.xcworkspace/xcuserdata/safarovsafar.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clima/Controller/WeatherViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/Controller/WeatherViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clima/View/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/View/Base.lproj/Main.storyboard" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Destini-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Destini-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dicee-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../Dicee-iOS13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EggTimer-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../EggTimer-iOS13" afterDir="false" />
@@ -4652,6 +4646,7 @@
       <workItem from="1599181970650" duration="430000" />
       <workItem from="1599290495119" duration="1200000" />
       <workItem from="1599314522048" duration="1658000" />
+      <workItem from="1599548378291" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="Clima-ios13">
       <created>1598458083012</created>
